@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+
+body {
+    font-family: 'Karla', sans-serif;
+    font-size: 16x;
+}
+h1 {
+    font-size: 54px;
+    font-family: 'DM Serif Display', serif;
+}
+h2 {
+    font-size: 42px;
+    font-family: 'DM Serif Display', serif;
+}
+h3 {
+    font-family: 'DM Serif Display', serif;
+}
